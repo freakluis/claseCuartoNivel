@@ -143,6 +143,8 @@ Das ist gelogen!
 Es ist billiger als ein Auto.
 Es wäre besser, Öffentliches Verkehrsmittel zu benutzen.
 
+Ich stimme dir zu. = Estoy de acuerdo contigo.
+
 
 
 
