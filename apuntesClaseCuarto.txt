@@ -118,3 +118,10 @@ Was halten Sie von der neuen App?
 Was hältst du von der neuen App?
 
 opciones = Möglichkeikten
+
+Da hast du Recht = en eso tienes razón
+gefährlich = peligroso
+
+
+
+
