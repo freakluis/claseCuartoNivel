@@ -1,4 +1,9 @@
+사항 = dato, información, condición
+
+----------------------
 시험 시작 지시가 있을 때까지 문제를 풀지 마십시오.
+
+풀다 = desatar, desenvolver, abrir
 ----------------------
 수험 번호와 이름을 정확하게 적어 주십시오.
 
@@ -36,4 +41,5 @@ Please use the pen provided to write your name, exam number, and correct answers
 
 
 
-
+----------------
+교실이
