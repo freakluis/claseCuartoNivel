@@ -28,6 +28,9 @@ s----
 ein|schlafen
 bremsen
 die Herde -n = el rebaño
+die Hauptperson
+
+
 
 **********************
 06/03/26
