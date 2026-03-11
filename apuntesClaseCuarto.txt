@@ -42,6 +42,9 @@ der Akku wird leer
 aus|laden = descargar un camión
 entladen = descargar
 speichern = guardar en tu compu
+umgehem mit = manejar (una tecnología)
+
+Ältere Menschen gehen schwer mit der Technik um.
 
 **********************
 09/03/09
