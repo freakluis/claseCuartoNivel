@@ -46,6 +46,12 @@ umgehem mit = manejar (una tecnología)
 
 Ältere Menschen gehen schwer mit der Technik um.
 
+Tipos de R
+
+teilnehmen = participar
+Luna nimmt an dem Deutschunterricht teil.
+
+
 
 
 **********************
