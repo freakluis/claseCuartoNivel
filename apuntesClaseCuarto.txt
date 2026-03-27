@@ -36,7 +36,9 @@ gesprächig, redselig
 abscheulich = despreciable
 verabscheuungswürdig = digno de ser despreciado
 
-
+bodegón:
+1) das Stillleben
+2) riesiges Warenhaus
 
 
 
