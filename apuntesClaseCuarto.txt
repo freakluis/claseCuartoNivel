@@ -32,7 +32,22 @@ der Gefallen
 
 ¿Te puedo pedir un favor?
 
-Kann ich dich 
+Kann ich dich um einen Gefallen bitten?
+------------
+Erwartete Fragen:
+
+Mit welchen Geräten arbeiten Sie?
+Wie viel Zeit kann die Reparatur dauern?
+Wie lange kann die Reparatur dauern?
+Was für Sachen bekommen sie öfter?
+Muss man für diese Reparaturen zahlen?
+
+
+
+
+
+
+ 
 
 
 **********************
