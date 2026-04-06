@@ -43,6 +43,14 @@ Was für Sachen bekommen sie öfter?
 Muss man für diese Reparaturen zahlen?
 Wer arbeitet hier?
 
+leihen = prestar
+
+das Werkzeug = la herramienta
+der Besitzer = el dueño
+
+
+
+
 
 
 
