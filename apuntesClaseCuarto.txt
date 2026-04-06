@@ -25,6 +25,8 @@ s----
 **********************
 06/04/26
 
+aufbewahren = guardar, resguardar 
+
 nach etwas (Dativ) fragen
 jemanden um etwas (Akkusativ) bitten
 
@@ -46,9 +48,10 @@ Was für Sachen bekommen sie öfter?
 Muss man für diese Reparaturen zahlen?
 Die Reparatur selbst ist kostenlos aber man muss für die Ersatzteile bezahlen.
 
-
-
 Wer arbeitet hier?
+Herr Stand, Andreas
+
+
 
 leihen = prestar
 
