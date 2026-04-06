@@ -36,17 +36,26 @@ Kann ich dich um einen Gefallen bitten?
 ------------
 Erwartete Fragen:
 
-Mit welchen Geräten arbeiten Sie?
-Wie viel Zeit kann die Reparatur dauern?
+Mit welchen Geräten arbeiten Sie? Fast mit allem
+
+Wie viel Zeit kann die Reparatur dauern? 
 Wie lange kann die Reparatur dauern?
+
 Was für Sachen bekommen sie öfter?
+
 Muss man für diese Reparaturen zahlen?
+Die Reparatur selbst ist kostenlos aber man muss für die Ersatzteile bezahlen.
+
+
+
 Wer arbeitet hier?
 
 leihen = prestar
 
 das Werkzeug = la herramienta
 der Besitzer = el dueño
+
+Das klingt toll = suena bien
 
 
 
